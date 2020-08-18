@@ -1,0 +1,19 @@
+:host {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.wrapper {
+    padding: 20px 40px;
+
+    text-align: center;
+    font-size: 20px;
+
+    background-color: #f4f4f4;
+}
+
+.value {
+    font-size: 32px;
+}
